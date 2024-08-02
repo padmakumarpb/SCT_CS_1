@@ -10,7 +10,6 @@ This is my first task assigned as part of my internship at Skill Craft Technolog
 - Write functions to handle the encryption and decryption processes based on the Caesar Cipher algorithm.
 - Ensure the program outputs the encrypted or decrypted message clearly and accurately based on user input.
 
-
 ## Installation & Usage
 
 Ensure you have Python installed.
