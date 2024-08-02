@@ -2,7 +2,6 @@
 
 ## Encrypt and Decrypt Text Using the Caesar Cipher Algorithm
 
----
 
 This is my first task assigned as part of my internship at Skill Craft Technology.This task involves creating a program that demonstrates the Caesar Cipher algorithm, a classic encryption technique. The project includes the following components:
 
@@ -11,10 +10,9 @@ This is my first task assigned as part of my internship at Skill Craft Technolog
 - Write functions to handle the encryption and decryption processes based on the Caesar Cipher algorithm.
 - Ensure the program outputs the encrypted or decrypted message clearly and accurately based on user input.
 
-...
 
 ## Installation & Usage
-...
+
 Ensure you have Python installed.
 
 1.Clone this repository
@@ -24,7 +22,7 @@ Ensure you have Python installed.
 5.Follow the instructions to input your message and shift value.
 
 ## Example
-...
+
 - Type `encrypt` for Encryption and `decrypt` for Decryption
 - For Encryption:
   - Enter the message: `HELLO`
@@ -37,12 +35,12 @@ Ensure you have Python installed.
 - Type `yes` to continue and `no` to stop
 
 ## Contact
-...
+
 For any inquiries or feedback, please reach out to me at [padmakumarpb176@gmail.com](mailto:padmakumarpb176@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/padmakumarpb).
 
 
 ## Final Thoughts
-...
+
 I hope this program meets all the specified requirements. If I gain further insights, I will make improvements. I welcome any feedback or guidance, as it will aid in my professional development.
 
 Thank you for reviewing my work!
