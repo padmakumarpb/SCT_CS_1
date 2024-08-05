@@ -14,11 +14,11 @@ This is my first task assigned as part of my internship at Skill Craft Technolog
 
 Ensure you have Python installed.
 
-1.Clone this repository
-2.Open the terminal and navigate to the project directory.
-3.Run the program
-4.Choose to encrypt or decrypt.
-5.Follow the instructions to input your message and shift value.
+1. Clone this repository
+2. Open the terminal and navigate to the project directory.
+3. Run the program
+4. Choose to encrypt or decrypt.
+5. Follow the instructions to input your message and shift value.
 
 ## Example
 
